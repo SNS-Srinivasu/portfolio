@@ -45,6 +45,9 @@
   <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/mta-introduction-to-programming-using-python-certified-2022.png?raw=true" alt="python" width="120" height="120"/>
   </a>
+  <a target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AWSEBadge.PNG?raw=true" alt="AWS_Educate" width="120" height="120"/>
+  </a>
 </p>
 
 
