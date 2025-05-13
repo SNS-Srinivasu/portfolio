@@ -21,19 +21,7 @@ Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Cerfied 
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="80" height="80"/>
   </a>
   <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
-    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud Essentials" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
-    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-compute.png?raw=true" alt="AWS Compute" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
-    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-networking.png?raw=true" alt="AWS Networking" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
-    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS Storage" width="80" height="80"/>
   </a>
   <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/containers-kubernetes-essentials.png?raw=true" alt="Kubernetes Essentials" width="80" height="80"/>
