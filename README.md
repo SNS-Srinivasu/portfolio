@@ -1,7 +1,16 @@
 
-## 📖 About Me
+## About Me
 
 Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Cerfied Azure Fundamentals and  passionate Cloud/DevOps enthusiast. I’ve completed the AWS re/Start program, gaining hands-on experience with AWS services and DevOps tools to build and manage scalable, secure cloud environments.
+
+---
+## Skills
+
+**Languages:** Python, Shell Scripting  
+**Cloud:** AWS , AZURE  
+**DevOps:** Git, GitHub, GitHub Actions, Docker, Kubernetes, CI/CD, ECR, EKS  
+**Monitoring/Security:** CloudWatch, CloudTrail, IAM, AWS Config, KMS, Trusted Advisor  
+**Database:** MySQL
 
 ---
 
@@ -75,20 +84,18 @@ Built a secure VPC with public/private subnets, NAT Gateway, route tables, and I
 
 ---
 
-## Education
+## Internship
 
-- **AWS re/Start Graduate Program** – *Magic Bus India Foundation (2025)*
-- **Bachelor’s Degree – Electrical & Electronics Engineering** – *Andhra University (2021–2024)*
+**AWS re/Start Graduate Program** – *Magic Bus India Foundation (jan 2025 - Apr 2025)*
+  - Completed full-time classroom training in IT Fundamentals, AWS Cloud, and professional skills
+  - Gained hands-on experience with Linux, Python, and Shell scripting. Developed and applied knowledge of core AWS services, including EC2, S3, IAM, VPC, Lambda, CloudFormation, RDS, and Route 53.
+  - Assisted 20+ users in understanding technical processes and gained experience in configuring, monitoring, and maintaining AWS systems
 
 ---
 
-## Skills
+## Education
 
-**Languages:** Python, Shell Scripting  
-**Cloud:** AWS (Compute, Networking, Storage, Database)  
-**DevOps:** Git, GitHub, GitHub Actions, Docker, Kubernetes, CI/CD, ECR, EKS  
-**Monitoring/Security:** CloudWatch, CloudTrail, IAM, AWS Config, KMS, Trusted Advisor  
-**Database:** MySQL
+- **Bachelor’s Degree – Electrical & Electronics Engineering** – *Andhra University (2021–2024)*
 
 ---
 
