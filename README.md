@@ -1,9 +1,9 @@
 # Sukuru Naga Sai Srinivasu
 
 
-## About Me
 
-Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Cerfied Azure Fundamentals and  passionate Cloud/DevOps enthusiast. I’ve completed the AWS re/Start program, gaining hands-on experience with AWS services and DevOps tools to build and manage scalable, secure cloud environments.
+
+Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Certified Azure Fundamentals and  passionate Cloud/DevOps enthusiast. I’ve completed the AWS re/Start program, gaining hands-on experience with AWS services and DevOps tools to build and manage scalable, secure cloud environments.
 
 ---
 ## Skills
