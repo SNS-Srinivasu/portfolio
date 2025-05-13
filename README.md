@@ -1,12 +1,7 @@
-# 🌐 S.N.S Srinivas | Portfolio
-
-Welcome to my professional portfolio! I'm **Sukuru Naga Sai Srinivasu**, an aspiring **Cloud Engineer** passionate about Cloud Computing, DevOps, and scalable infrastructure design.
-
----
 
 ## 📖 About Me
 
-Hello! I recently completed the **AWS re/Start Graduate Program** and have been actively building projects that reflect my passion for cloud technology and real-world DevOps practices.
+Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Cerfied Azure Fundamentals and  passionate Cloud/DevOps enthusiast. I’ve completed the AWS re/Start program, gaining hands-on experience with AWS services and DevOps tools to build and manage scalable, secure cloud environments.
 
 ---
 
@@ -50,44 +45,44 @@ Hello! I recently completed the **AWS re/Start Graduate Program** and have been 
 
 ---
 
-## 💻 Projects
+## Projects
 
-### 📦 AWS EKS Deployment
+### AWS EKS Deployment
 ![EKS](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/architecture.jpg)  
 **Description:**  
 End-to-end deployment of containerized applications using AWS EKS, Docker, and Kubernetes manifests. Includes Amazon ECR for image storage and eksctl/kubectl for orchestration.
 
 ---
 
-### ✅ AWS Serverless To-Do App
+### AWS Serverless To-Do App
 ![Serverless](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/serverless.jpg)  
 **Description:**  
 A To-Do app using AWS Lambda, API Gateway, and DynamoDB. Designed with serverless principles and deployed via RESTful APIs with Python.
 
 ---
 
-### 🌐 High Availability Architecture on AWS
+### High Availability Architecture on AWS
 ![HA](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/HA.jpeg)  
 **Description:**  
 A resilient and fault-tolerant web architecture using EC2, ALB, Auto Scaling, Route 53, CloudWatch, and Security Groups.
 
 ---
 
-### 🔒 Secure VPC Network Architecture
+### Secure VPC Network Architecture
 ![Networking](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/Networking.jpeg)  
 **Description:**  
 Built a secure VPC with public/private subnets, NAT Gateway, route tables, and IGW for internet access isolation.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **AWS re/Start Graduate Program** – *Magic Bus India Foundation (2025)*
 - **Bachelor’s Degree – Electrical & Electronics Engineering** – *Andhra University (2021–2024)*
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Languages:** Python, Shell Scripting  
 **Cloud:** AWS (Compute, Networking, Storage, Database)  
@@ -97,7 +92,7 @@ Built a secure VPC with public/private subnets, NAT Gateway, route tables, and I
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📧 Email: [saipandu81@gmail.com](mailto:saipandu81@gmail.com)  
 - 💻 GitHub: [SNS-Srinivasu](https://github.com/SNS-Srinivasu)  
