@@ -43,6 +43,9 @@ Hello! I recently completed the **AWS re/Start Graduate Program** and have been 
   <a href="#" target="_blank">
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AWSEBadge.PNG?raw=true" alt="AWS Educate" width="80" height="80"/>
   </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AZ-900.PNG?raw=true" alt="AZ_900" width="80" height="80"/>
+  </a>
 </div>
 
 ---
