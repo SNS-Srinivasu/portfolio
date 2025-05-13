@@ -41,31 +41,63 @@ Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Certifie
 
 ## Projects
 
+### CI/CD Pipeline Using Jenkins, ECR, and EC2
+![CI/CD](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/Diagram.png) 
+
+- Jenkins Master: Runs in a Docker container, listens for GitHub webhooks, and orchestrates the pipeline.
+- Jenkins Agent: Executes tasks like cloning the repository, building Docker images, and pushing them to Amazon ECR.
+- Deployment Server: Automatically pulls the latest image from ECR, replaces the old container, and runs the updated application on port 8081.
+
+
+
+
 ### AWS EKS Deployment
 ![EKS](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/architecture.jpg)  
+
 **Description:**  
-End-to-end deployment of containerized applications using AWS EKS, Docker, and Kubernetes manifests. Includes Amazon ECR for image storage and eksctl/kubectl for orchestration.
+
+- This project demonstrates the end-to-end setup and deployment of a containerized application on AWS EKS. 
+- It covers the installation and configuration of key DevOps tools including AWS CLI, kubectl, eksctl, and Docker. 
+- The workflow includes creating an EKS cluster, building Docker images, pushing them to Amazon ECR, and deploying the application using Kubernetes manifests. 
+- This setup reflects real-world practices in modern cloud infrastructure and container orchestration.
 
 ---
 
 ### AWS Serverless To-Do App
 ![Serverless](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/serverless.jpg)  
+
 **Description:**  
-A To-Do app using AWS Lambda, API Gateway, and DynamoDB. Designed with serverless principles and deployed via RESTful APIs with Python.
+
+- Built a serverless To-Do application using AWS Lambda, DynamoDB, and API Gateway. 
+- Implemented RESTful API endpoints to add and retrieve tasks, with Lambda functions written in Python and connected to a DynamoDB table. 
+- The solution is fully deployed using API Gateway and demonstrates hands-on experience with serverless architecture and AWS services.
 
 ---
 
 ### High Availability Architecture on AWS
 ![HA](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/HA.jpeg)  
+
 **Description:**  
-A resilient and fault-tolerant web architecture using EC2, ALB, Auto Scaling, Route 53, CloudWatch, and Security Groups.
+
+- Designed and implemented a highly available and fault-tolerant web infrastructure using AWS services.
+- Deployed EC2 instances across multiple Availability Zones with Auto Scaling to handle variable traffic loads.
+- Integrated an Application Load Balancer (ALB) for efficient request distribution and health checks.
+- Used Route 53 for DNS management and domain routing to ensure high reliability.
+- Applied Security Groups for controlled access and Amazon CloudWatch for real-time monitoring and alerts.
+- This project highlights AWS best practices for building scalable, secure, and resilient cloud architectures.
 
 ---
 
 ### Secure VPC Network Architecture
 ![Networking](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/Networking.jpeg)  
+
 **Description:**  
-Built a secure VPC with public/private subnets, NAT Gateway, route tables, and IGW for internet access isolation.
+
+- Designed a secure and efficient VPC architecture in AWS using both public and private subnets across multiple Availability Zones.
+- Configured a public subnet with an EC2 instance connected via an Internet Gateway (IGW) for external access.
+- Deployed a private subnet with an isolated EC2 instance, using a NAT Gateway to enable secure outbound internet access.
+- Implemented route tables to control traffic flow—public subnet routing through the IGW, and private subnet through the NAT Gateway.
+- This architecture demonstrates secure cloud networking principles with isolation, controlled access, and high availability.
 
 ---
 
