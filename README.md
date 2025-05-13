@@ -12,18 +12,38 @@ Hello! I recently completed the **AWS re/Start Graduate Program** and have been 
 
 ## 🏅 Certifications
 
-| Certificate | Badge |
-|-------------|-------|
-| [AWS re/Start Graduate](https://www.credly.com/badges/cf9e23a5-6712-46ed-8046-c5ca413286d0/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-re-start-graduate-2.png?raw=true) |
-| [AWS Cloud Essentials](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-cloud-essentials.png?raw=true) |
-| [AWS Compute](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-compute.png?raw=true) |
-| [AWS Cloud Quest](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true) |
-| [AWS Networking](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-networking.png?raw=true) |
-| [AWS Storage](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-storage.png?raw=true) |
-| [Kubernetes Essentials](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/containers-kubernetes-essentials.png?raw=true) |
-| [Python Programming](https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/mta-introduction-to-programming-using-python-certified-2022.png?raw=true) |
-| [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/3763e21e-2437-44fb-9115-9b15325de94b) | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-certified-cloud-practitioner.png?raw=true) |
-| AWS Educate | ![](https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AWSEBadge.PNG?raw=true) |
+<div align="center">
+  <a href="https://www.credly.com/badges/cf9e23a5-6712-46ed-8046-c5ca413286d0/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud Essentials" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-knowledge-compute.png?raw=true" alt="AWS Compute" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-networking.png?raw=true" alt="AWS Networking" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS Storage" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/containers-kubernetes-essentials.png?raw=true" alt="Kubernetes Essentials" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/72725f99-af0d-424c-9fd5-2198a4ad4537/public_url" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/mta-introduction-to-programming-using-python-certified-2022.png?raw=true" alt="Python Programming" width="80" height="80"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/3763e21e-2437-44fb-9115-9b15325de94b" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="CCP" width="80" height="80"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AWSEBadge.PNG?raw=true" alt="AWS Educate" width="80" height="80"/>
+  </a>
+</div>
 
 ---
 
