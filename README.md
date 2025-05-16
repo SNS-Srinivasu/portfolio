@@ -41,6 +41,13 @@ Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Certifie
 
 ## Projects
 
+### AWS 3-Tier Web Application Architecture 
+![CI/CD](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/3-Tier.png) 
+
+- Designed and deployed a secure, scalable 3-tier web application infrastructure on AWS using Terraform.
+- The setup includes a VPC with public and private subnets across two Availability Zones, an Application Load Balancer, Auto Scaling Group of EC2 instances for the application layer, and an RDS MySQL database in the backend.
+- Focused on high availability, fault tolerance, and cost-effective design.
+
 ### CI/CD Pipeline Using Jenkins, ECR, and EC2
 ![CI/CD](https://raw.githubusercontent.com/SNS-Srinivasu/portfolio/main/Diagram.png) 
 
