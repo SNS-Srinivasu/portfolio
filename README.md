@@ -35,6 +35,9 @@ Hi, I'm S.N.S Srinivasu, an AWS Certified Cloud Practitioner, Microsoft Certifie
   <a href="#" target="_blank">
     <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/AZ-900.png?raw=true" alt="AZ_900" width="80" height="80"/>
   </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/SNS-Srinivasu/SNS-Srinivasu/blob/main/github-advanced-security.png?raw=true" alt="github" width="80" height="80"/>
+  </a>
 </div>
 
 ---
